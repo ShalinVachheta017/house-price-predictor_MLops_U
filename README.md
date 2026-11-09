@@ -1,5 +1,27 @@
 # 🏠 House Price Predictor – An MLOps Learning Project
 
+## Project Summary
+
+### What is this project?
+This is a learning project about predicting house prices and organizing the model-building process.
+
+### Why is it interesting?
+A price estimate is more useful when the data and training steps are repeatable.
+
+### How does it work?
+The workflow prepares housing data, trains models, and tracks experiments.
+
+### Real-life example
+You enter information about a home and use a trained model to estimate its price.
+
+### What did I learn?
+This learning exercise covers model pipelines, experiment tracking, and running ML tools in containers.
+
+---
+
+## Technical Documentation
+
+
 Welcome to the **House Price Predictor** project! This is a real-world, end-to-end MLOps use case designed to help you master the art of building and operationalizing machine learning pipelines.
 
 You'll start from raw data and move through data preprocessing, feature engineering, experimentation, model tracking with MLflow, and optionally using Jupyter for exploration – all while applying industry-grade tooling.
